@@ -11,3 +11,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSfnDGkZfx7VgtFvop29HUOifHuz6V1tsOPJffKe
 
 ## Как учиться в Rolling Scopes School
 https://docs.google.com/forms/d/e/1FAIpQLSfCZy75T6MAx--ntxRJHDGFFRHElh11fAxjkToqJiFOUxPABg/viewscore?viewscore=AE0zAgB6HAo1rGsqqHpierpuWzNzDoLL9ahaIFvfAnmc0hfGK1o4QqbebTQIQbY5FTXrJvk
+
+## HTML & CSS Basics. Test 1. Var 2
+https://docs.google.com/forms/d/e/1FAIpQLScfQHyyr4FB5VdggOVUGACuJ-ZYDKJN_WeBM0IEkCemHJQYqg/viewscore?viewscore=AE0zAgD9z-dhOGoDs77fx92u2E51tsJr47ohkvkI8V3E3suJrBFPIJA8RWcjjTrUV2gYazc
